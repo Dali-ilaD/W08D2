@@ -36,4 +36,3 @@ String.prototype.substrings = function() {
 
 a = "hippo".substrings();
 
-console.log(a, "subs");
